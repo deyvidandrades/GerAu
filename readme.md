@@ -1,6 +1,4 @@
 
-
-
 # GerAu - Sistema Gerenciador de Concessionária
 #### [Projeto prático](https://github.com/deyvidandrades/GerAu) desenvoldido na disciplina de Engenharia de Softawre.
 
@@ -25,7 +23,7 @@ O que você precisa instalar para desenvolver e rodar o projeto:
 ## Autores
 
 * **Deyvid Andrade** - [Git](https://github.com/deyvidandrades)
-* **Vinícius Resende** - [Git](https://github.com/Vinny200/)
+* **Vinicius Resende** - [Git](https://github.com/Vinny200/)
 
 ## Licença
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes
